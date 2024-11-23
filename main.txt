@@ -9,3 +9,4 @@ Nova linha local fetch
 
 Nova linha remoto fetch
 >>>>>>> origin/main
+NOVA LINHA LOCAL FETCH
