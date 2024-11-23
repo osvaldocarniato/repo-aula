@@ -3,4 +3,9 @@ Nova linha repo remoto
 Nova linha arquivo main
 Nova linha arquivo main
 Nova linha arquivo main.txt
+<<<<<<< HEAD
 Nova linha local fetch
+=======
+
+Nova linha remoto fetch
+>>>>>>> origin/main
